@@ -1,0 +1,7 @@
+<ul>
+	<li class="border2 "><div class="question"> Из чего формируется конечная стоимость проекта?</div><div class="icon1"></div></li>
+	<li class="border2"><div class="question">У меня есть свой проект. Сможем ли мы его доработать / реализовать?</div><div class="icon1"></div></li>
+	<li class="border2"><div class="question">Я выбираю между разными компаниями. В чём ваше отличие?</div><div class="icon1"></div></li>
+	<li class="border2"><div class="question">Могу ли я делегировать вам работу / согласование с подрядчиком / организацией? </div><div class="icon1"></div></li>
+	<li class="border2"><div class="question">Могу ли я вернуть деньги на каком-либо из этапов работ?</div><div class="icon1"></div></li>
+</ul>

@@ -1,0 +1,46 @@
+Александр Гонтаренко
+29 ноября 2020, 14:29
+Вадим, здравствуйте!
+
+Следующие рекомендации по доработке:
+
+1) у класса .about-us-block2-1 убрать margin-left и меняем margin-top: 67px;
+
+2) классу .consultation добавляем margin-bottom: 0;
+
+3) классу .about-us-desc добавляем margin-top: 0;
+
+4) у класса .workHeader-text1 меняем margin-top: 50px;
+
+5) у класса .workHeader-Img1 убрать свойства width и height
+
+6) классу .button-document добавить font-family: 'Montserrat'; font-size: 16px;
+
+7) у класса .question-block1 меняем margin-top: 100px; margin-bottom: 40px;
+
+8) у класса .question убираем padding-top
+
+9) добавляем псевдокласс .border2:first-child {border-top: 1px solid #CACACA;} 
+
+10) у класса .footer-main меняем margin-top: 95px;
+
+11) у класса .footer-ul меняем margin-top: 21px;
+
+12) у класса .footer-ul li меняем margin-bottom: 17px;
+
+13) у класса .footer-ul2 убираем margin-left
+
+14) для ссылок списка footer-ul2 нужно добавить классы с названиями соцсетей, где через свойство background-image выведем непосредственно иконки соцсетей.
+
+15) у классов .footer-form-input-1 и .footer-form-textarea меняем width: 540px;
+
+16) у класса .footer-block2 меняем margin-right: 230px;
+
+17) у класса .footer-form-button меняем padding: 20px 50px; margin-left: 50px;
+
+18) классу .footer-form-checkbox добавляем margin-left: 8px;
+
+19) классу .search меняем  margin-top: 38px; и добавляем margin-right: 10px;
+
+20) у класса .li-item меняем padding-right: 83px;
+
